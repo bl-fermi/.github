@@ -1,4 +1,1 @@
-# Conduction-Cooled 650 MHz SRF Technology for Industrial Accelerators at Fermilab's IARC
-- The Illinois Accelerator Research Center (IARC) at Fermilab is developing a high-power, conduction-cooled Superconducting Radio Frequency (SRF) accelerator tailored for industrial applications requiring robust and efficient operation.
-- A 650 MHz, 1.6 MeV, 20 kW SRF accelerator is currently under development, employing a conduction cooling approach to simplify cryogenic requirements and enhance accessibility for industrial use.
-- The accelerator's control system is implemented on the Blinky-Lite platform, selected for its open-source architecture, secure remote access capabilities, and operational flexibility—attributes advantageous for industrial deployment and sustained operation. 
+# CSRF-LATS
